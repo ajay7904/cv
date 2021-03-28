@@ -1,34 +1,34 @@
 body{
-    background-color: #d8c292;
+    background-color: #fde8cd;
     font-family: ;
 }
 
 h1{
-    color: #5b5b5b;
+    color: #025955;
 }
 
 h2{
-    color: #5b5b5b;
+    color: #025955;
 }
 
 h3{
-    color: #5b5b5b
+    color: #025955
 }
 
 h4{
-    color: #5b5b5b;
+    color: #025955;
 }
 
 p{
-    color: #b67171;
+    color: #433520;
 }
 
 address{
-    color: #b67171;
+    color: #433520;
 }
 
 a:link{
-    color: #5b5b5b;
+    color: #3a6351;
 }
 a:hover{
     color: #e84545;
